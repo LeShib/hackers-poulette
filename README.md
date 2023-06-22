@@ -15,10 +15,10 @@ Welcome to the Hackers Poulette project! This is a web application that allows u
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,tailwind" />
   </a>
 </p>
-<img src="https://img.shields.io/badge/Technos-HMTL5_/_CSS3_/_JS_/_Git-green?style=for-the-badge&logo=appveyor" alt="Badge Technologies" style="margin-right:10px;">
+<img src="https://img.shields.io/badge/Technos-HMTL5_/_CSS3_/_tailwind_/_JS_/_Git-green?style=for-the-badge&logo=appveyor" alt="Badge Technologies" style="margin-right:10px;">
 - MySQL for the database storage
 - Google reCAPTCHA for spam protection
 
